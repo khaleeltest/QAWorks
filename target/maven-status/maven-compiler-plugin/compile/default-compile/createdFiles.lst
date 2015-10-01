@@ -1,8 +1,0 @@
-com/qaworks/test/ContactException.class
-Pages/ContactUsPage.class
-com/qaworks/test/Browser.class
-Pages/MessagePage.class
-Pages/HomePage.class
-com/qaworks/test/App.class
-com/qaworks/test/BrowserFactory.class
-com/qaworks/test/DriverWrapper.class
