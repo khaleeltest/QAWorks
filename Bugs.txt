@@ -1,6 +1,6 @@
 Bugs:
 1. if you enter invalid email id after entering name and message and submit the form the application showing server error
 2.if you only enter invalid email id and without entering name and message, submit form, the error messages  are only seen on Name and Message text box but not on email (Email should also be shown error message as invalid email)
-3.if you enter invalid email id and message it shows invalid email error message on email text box once you submit the form, the error message disappears on email text box and only shows the error message on name text box.
+3.if you enter invalid email id and message it shows invalid email error message on email text box once you submit the form, the error message disappears on email text box and only error message on name text box.
 
 
