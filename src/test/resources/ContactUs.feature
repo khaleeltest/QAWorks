@@ -1,4 +1,4 @@
-@Contactus
+@Contactus @test
 Feature: Contact Us Page
   As an end user
   I want a contact us page
